@@ -1,0 +1,12 @@
+Dépose ici les vraies photos des projets d'Esther.
+
+Ensuite, dans le fichier  js/data.js , remplace l'URL de l'image par le
+chemin vers ta photo, par exemple :
+
+    image: "assets/images/appartement-haussmannien.jpg",
+
+Conseils :
+  • Formats : .jpg (photos) ou .webp (plus léger, recommandé)
+  • Largeur idéale : environ 1200 à 1600 px
+  • Évite les espaces et accents dans les noms de fichiers
+    (utilise des tirets :  salle-a-manger.jpg )
